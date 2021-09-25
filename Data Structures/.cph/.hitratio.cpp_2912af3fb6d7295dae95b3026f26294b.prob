@@ -1,0 +1,1 @@
+{"name":"Local: hitratio","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\ds sem 2\\hitratio.cpp","tests":[{"id":1624804965490,"input":"3\n6\n5 4 3 2 8 1\n2\n3 4\n2\n8 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\ds sem 2\\hitratio.cpp","group":"local","local":true}

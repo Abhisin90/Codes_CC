@@ -1,0 +1,1 @@
+{"name":"Local: hi","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\DS\\DS_Assignment_1\\hi.cpp","tests":[{"id":1622028588680,"input":"N = 10\nQ = 10 20 30 40 50 60 70 80 90 100\nk = 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\DS\\DS_Assignment_1\\hi.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: prime","url":"c:\\Users\\DELL\\OneDrive\\Desktop\\ds sem 2\\prime.cpp","tests":[{"id":1624827712459,"input":"3\n8\n1 4 2 7 6 8 9 3\n5\n3 18 6 7 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\DELL\\OneDrive\\Desktop\\ds sem 2\\prime.cpp","group":"local","local":true}
